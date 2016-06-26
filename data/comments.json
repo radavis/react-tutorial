@@ -1,17 +1,4 @@
 [
-  {
-    "id": 1388534400000,
-    "author": "Pete Hunt",
-    "text": "Hey there!"
-  },
-  {
-    "id": 1420070400000,
-    "author": "Paul O’Shannessy",
-    "text": "React is *great*!"
-  },
-  {
-    "id": "1466945898213",
-    "author": "Richard",
-    "text": "Dude..."
-  }
+  { "id": 1, "author": "Ash", "text": "This is my BOOMSTICK." },
+  { "id": 2, "author": "Witch Lady", "text": "We will feast upon your souls!" }
 ]

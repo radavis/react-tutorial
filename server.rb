@@ -4,6 +4,10 @@ require "pry"
 
 require_relative "./models/comment"
 
+get "/" do
+  redirect to("index.html")
+end
+
 get "/api/comments" do
   comments = Comment.all
   json(comments)
